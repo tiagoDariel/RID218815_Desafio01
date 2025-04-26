@@ -6,6 +6,7 @@
   align-items: center;
   justify-content: center;
   padding: 87px 77px;
+  position: relative;
 }
 
 .footer .footer__box {
@@ -54,4 +55,27 @@
   font-size: 30px;
   font-weight: 700;
   border-radius: 10px;
+}
+
+.footer .signature {
+  font-family: "Signature", "cursive" !important;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: beige;
+  font-size: 40px;
+  rotate: -35deg;
+  position: relative;
+  bottom: 80px;
+  left: 150%;
+  width: 230px;
+}
+.footer .signature .name { 
+  right: 100px;
+  bottom: 115px;
+}
+
+.footer .signature .surname { 
+  left: 65px;
+  position: relative;
 }

@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Signature';
+  src: url('./assets/fonts/League_Script/LeagueScript-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Inter';
+  src: url('./assets/fonts/Inter/Inter-VariableFont_opsz\,wght.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
