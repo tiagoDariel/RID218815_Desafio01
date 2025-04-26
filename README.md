@@ -4,9 +4,9 @@
 
 ---
 
-### ✅ Opção 1: Usando o `serve` (Node.js)
+# ✅ Opção 1: Usando o `serve` (Node.js)
 
-## 1. Verificar se o Node.js está instalado
+### 1. Verificar se o Node.js está instalado
 
 #### No terminal, digite
 
@@ -17,11 +17,11 @@ npm -v
 
 👉 https://nodejs.org/
 
-## 2. Instalar o pacote serve
+### 2. Instalar o pacote serve
 
 npm install -g serve
 
-## 3. Rodar o servidor local
+### 3. Rodar o servidor local
 
 #### Dentro da pasta do projeto, execute:
 
